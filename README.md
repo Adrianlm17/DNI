@@ -1,6 +1,6 @@
 # Kata DNI
 
-This kata is a work exposed by our teacher: (dfleta)[https://github.com/dfleta/Python_ejercicios/tree/master/Poo/DNI]
+This kata is a work exposed by our teacher: [dfleta](https://github.com/dfleta/Python_ejercicios/tree/master/Poo/DNI)
 
 It consisted of writing a program that, given a DNI number, would obtain its NIF letter.
 
