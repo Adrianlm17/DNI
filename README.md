@@ -10,4 +10,4 @@ It consisted of writing a program that, given a DNI number, would obtain its NIF
 - The resulting number indicates the position of the letter corresponding to that DNI in the following string:
 (The letters: I, Ñ, Q, U are not used)
 
-![nif-dni](./doc/nif_dni.png)
+![nif-dni](./docs/nif_dni.png)
