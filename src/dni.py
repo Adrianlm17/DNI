@@ -7,10 +7,20 @@ class Dni:
         return False
 
 
+    def checkCaracter(num):
+        if type(num) == int and num > 0:
+            return True
+        return False
+
+
     def checkResNum(num):
         result = num % 23 
 
         return result
+
+
+
+class Letra:
 
 
     def letraDni(num):
